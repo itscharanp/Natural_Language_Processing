@@ -1,0 +1,5 @@
+I drink coffee,pos
+I drink tea,neg
+I drink milk,neg
+I drink milk and tea,neg
+I dont drink tea,pos
